@@ -1,6 +1,7 @@
 #References:
 # 1) https://programmingwithmosh.com/python/python-3-cheat-sheet/
 # 2) https://www.calculator.net/calorie-calculator.html
+# This program calculates your Basal Metabolic Rate / daily calorie required to achieve your fitness goal using Mifflin-St Jeor Formula.
 
 def askHeight():
     return float(input("Your height in CM:"))
