@@ -1,2 +1,2 @@
-# pythonTutorial
-Simple python exercise tutorials
+# Simple Python Exercises
+
